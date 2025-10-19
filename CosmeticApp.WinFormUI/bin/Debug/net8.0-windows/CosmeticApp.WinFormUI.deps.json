@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CosmeticApp.WinFormUI/1.0.0": {
+        "dependencies": {
+          "CosmeticApp.Logic": "1.0.0",
+          "CosmeticApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "CosmeticApp.WinFormUI.dll": {}
+        }
+      },
+      "CosmeticApp.Logic/1.0.0": {
+        "dependencies": {
+          "CosmeticApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "CosmeticApp.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CosmeticApp.Model/1.0.0": {
+        "runtime": {
+          "CosmeticApp.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CosmeticApp.WinFormUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CosmeticApp.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CosmeticApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

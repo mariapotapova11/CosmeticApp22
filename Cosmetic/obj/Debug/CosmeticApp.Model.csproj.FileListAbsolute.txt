@@ -1,0 +1,12 @@
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\Cosmetic.dll.config
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\Cosmetic.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\Cosmetic.pdb
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\EntityFramework.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\EntityFramework.xml
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\obj\Debug\CosmeticApp.Model.csproj.AssemblyReference.cache
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\obj\Debug\CosmeticApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\obj\Debug\Cosmetic.17C7DB69.Up2Date
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\obj\Debug\Cosmetic.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\Cosmetic\obj\Debug\Cosmetic.pdb

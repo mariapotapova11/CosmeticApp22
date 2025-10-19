@@ -1,0 +1,17 @@
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\CosmeticApp.DataAccessLayer.dll.config
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\CosmeticApp.DataAccessLayer.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\CosmeticApp.DataAccessLayer.pdb
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\Cosmetic.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\Cosmetic.pdb
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\Cosmetic.dll.config
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\obj\Debug\CosmeticApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\obj\Debug\CosmeticApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\obj\Debug\Cosmetic.E1BF653C.Up2Date
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\obj\Debug\CosmeticApp.DataAccessLayer.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\obj\Debug\CosmeticApp.DataAccessLayer.pdb
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\89831\Downloads\CosmeticApp-main\CosmeticApp-main\CosmeticApp.DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml

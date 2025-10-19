@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CosmeticApp.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CosmeticApp.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CosmeticApp.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CosmeticApp.Logic.dll": {}
+        }
+      },
+      "CosmeticApp.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CosmeticApp.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CosmeticApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CosmeticApp.Logic/1.0.0": {
+      "type": "project",
+      "path": "../CosmeticApp.Logic/CosmeticApp.Logic.csproj",
+      "msbuildProject": "../CosmeticApp.Logic/CosmeticApp.Logic.csproj"
+    },
+    "CosmeticApp.Model/1.0.0": {
+      "type": "project",
+      "path": "../CosmeticApp.Model/CosmeticApp.Model.csproj",
+      "msbuildProject": "../CosmeticApp.Model/CosmeticApp.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CosmeticApp.Logic >= 1.0.0",
+      "CosmeticApp.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\89831\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.WinFormUI\\CosmeticApp.WinFormUI.csproj",
+      "projectName": "CosmeticApp.WinFormUI",
+      "projectPath": "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.WinFormUI\\CosmeticApp.WinFormUI.csproj",
+      "packagesPath": "C:\\Users\\89831\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.WinFormUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\89831\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj": {
+              "projectPath": "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj"
+            },
+            "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.Model\\CosmeticApp.Model.csproj": {
+              "projectPath": "C:\\Users\\89831\\Downloads\\CosmeticApp-main\\CosmeticApp-main\\CosmeticApp.Model\\CosmeticApp.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
