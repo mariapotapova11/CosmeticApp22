@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\АИС2\\CosmeticApp22\\CosmeticApp.WinForms\\CosmeticApp.WinForms.csproj": {}
+  },
+  "projects": {
+    "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj",
+        "projectName": "CosmeticApp.DataAccessLayer",
+        "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj",
+        "projectName": "CosmeticApp.Logic",
+        "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj",
+        "packagesPath": "C:\\Users\\Samoh_23jzmt3\\.nuget\\packages\\",
+        "outputPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samoh_23jzmt3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj"
+              },
+              "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\АИС2\\CosmeticApp22\\CosmeticApp.WinForms\\CosmeticApp.WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.WinForms\\CosmeticApp.WinForms.csproj",
+        "projectName": "CosmeticApp.WinForms",
+        "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.WinForms\\CosmeticApp.WinForms.csproj",
+        "packagesPath": "C:\\Users\\Samoh_23jzmt3\\.nuget\\packages\\",
+        "outputPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samoh_23jzmt3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.DataAccessLayer\\CosmeticApp.DataAccessLayer.csproj"
+              },
+              "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\CosmeticApp.Logic\\CosmeticApp.Logic.csproj"
+              },
+              "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj": {
+                "projectPath": "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj",
+        "projectName": "CosmeticApp.Model",
+        "projectPath": "C:\\АИС2\\CosmeticApp22\\Cosmetic\\CosmeticApp.Model.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
